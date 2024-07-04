@@ -1,24 +1,31 @@
-# Front-End.github.io
+# To-Do List
 
+Welcome to the To-Do List project! This application allows you to manage your tasks efficiently. It is built using HTML, CSS, and JavaScript.
 
-			
+## Table of Contents
 
-Javascript Test
+- [Features](#features)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-TEST NAME: Todo list
+## Features
 
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Persist tasks using local storage
+- Responsive design
 
-Problem statement
-Create a simple Todo list with vanilla JS (as you see in the GIF below). Vanilla JS means no plugins, no libraries, nothing.
+## Demo
 
+Check out a live demo of the To-Do List (https://adeelahmad2295.github.io/To-Do-List.github.io/).
 
+## Installation
 
-
-Features (No need for extra features, just make the listed features)
-A minimal design with HTML and CSS, it should look nice (no libraries, no frameworks).
-A text box at the top to add a todo item to the list.
-Add button: when a user clicks on the button, add that todo item to the list.
-A delete button to delete the todo item completely from the list.
-A checkbox to check the item off the list. (checked item should stay in the list, with some differentiation from rest of the todo items)
-Total number of tasks in the list.
-Extra points for creativity (think about user accessibility, some animations and things like that)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/todo-list.git
