@@ -8,9 +8,11 @@
 body {
 
 /*background: linear-gradient(to right , #6dd5fa, #2980b9);*/
-background: linear-gradient(to right, #6dd5fa, #2980b9);
+/* background: linear-gradient(to right, #6dd5fa, #2980b9);
+ */
 
-
+    background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(216,88,157,1) 24%, rgba(129,85,201,1) 35%, rgba(136,84,195,1) 39%, rgba(147,83,186,1) 45%, rgba(164,81,173,1) 54%, rgba(172,80,167,1) 58%, rgba(189,78,154,1) 67%, rgba(252,70,107,1) 100%);
     margin: 50px 2%;
 }
 
